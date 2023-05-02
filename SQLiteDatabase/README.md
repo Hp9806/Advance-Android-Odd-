@@ -308,7 +308,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 ```
 
 ## OUTPUT:
-![Screenshot 2023-04-30 101110](https://user-images.githubusercontent.com/94269989/235336579-79e5a189-c8ed-4987-9285-6f6652f10f2a.png)
+![Screenshot 2023-04-30 101110](SQLiteDatabase/WhatsApp Image 2023-05-02 at 10.35.40 AM.jpeg)
 
 
 
