@@ -308,7 +308,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 ```
 
 ## OUTPUT:
-![Screenshot 2023-04-30 101110](SQLiteDatabase/WhatsApp Image 2023-05-02 at 10.35.40 AM.jpeg)
+![Screenshot 2023-04-30 101110](https://github.com/Hp9806/Advance-Android-Odd-/blob/main/SQLiteDatabase/WhatsApp%20Image%202023-05-02%20at%2010.35.40%20AM.jpeg)
 
 
 
